@@ -1,0 +1,206 @@
+[
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-merged_res-25:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-main-27:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-merged_res-25:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-main-27:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.example.myquizapp-merged_res-25:/layout_activity_quiz_questions.xml.flat",
+        "source": "com.example.myquizapp-main-27:/layout/activity_quiz_questions.xml"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-merged_res-25:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-main-27:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-merged_res-25:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-main-27:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-merged_res-25:\\drawable_ic_flag_of_kuwait.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-main-27:\\drawable\\ic_flag_of_kuwait.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-merged_res-25:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-main-27:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-merged_res-25:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-main-27:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-merged_res-25:\\drawable_wrong_option_border_bg.xml.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-main-27:\\drawable\\wrong_option_border_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-merged_res-25:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-main-27:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-merged_res-25:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-main-27:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-merged_res-25:\\drawable_correct_option_border_bg.xml.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-main-27:\\drawable\\correct_option_border_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-merged_res-25:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-main-27:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-merged_res-25:\\drawable_ic_flag_of_argentina.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-main-27:\\drawable\\ic_flag_of_argentina.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-merged_res-25:\\drawable_ic_flag_of_brazil.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-main-27:\\drawable\\ic_flag_of_brazil.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-merged_res-25:\\layout_activity_quiz_questions.xml.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-main-27:\\layout\\activity_quiz_questions.xml"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-merged_res-25:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-main-27:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-merged_res-25:\\drawable_ic_flag_of_india.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-main-27:\\drawable\\ic_flag_of_india.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-merged_res-25:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-main-27:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-merged_res-25:\\drawable_default_option_border_bg.xml.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-main-27:\\drawable\\default_option_border_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-merged_res-25:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-main-27:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-merged_res-25:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-main-27:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-merged_res-25:\\drawable_ic_flag_of_denmark.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-main-27:\\drawable\\ic_flag_of_denmark.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-merged_res-25:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-main-27:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-merged_res-25:\\drawable_ic_flag_of_fiji.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-main-27:\\drawable\\ic_flag_of_fiji.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-merged_res-25:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-main-27:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-merged_res-25:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-main-27:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-merged_res-25:\\drawable_ic_trophy.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-main-27:\\drawable\\ic_trophy.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-merged_res-25:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-main-27:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-merged_res-25:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-main-27:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-merged_res-25:\\drawable_ic_flag_of_australia.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-main-27:\\drawable\\ic_flag_of_australia.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-merged_res-25:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-main-27:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-merged_res-25:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-main-27:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-merged_res-25:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-main-27:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-merged_res-25:\\drawable_ic_flag_of_belgium.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-main-27:\\drawable\\ic_flag_of_belgium.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-merged_res-25:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-main-27:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-merged_res-25:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-main-27:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-merged_res-25:\\layout_activity_result.xml.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-main-27:\\layout\\activity_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-merged_res-25:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-main-27:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-merged_res-25:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-main-27:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-merged_res-25:\\drawable_selected_option_border_bg.xml.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-main-27:\\drawable\\selected_option_border_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-merged_res-25:\\drawable_img.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-main-27:\\drawable\\img.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-merged_res-25:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-main-27:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-merged_res-25:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-main-27:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-merged_res-25:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-main-27:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-merged_res-25:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-main-27:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-merged_res-25:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-main-27:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-merged_res-25:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-main-27:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-merged_res-25:\\drawable_ic_flag_of_germany.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-main-27:\\drawable\\ic_flag_of_germany.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-merged_res-25:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-main-27:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-merged_res-25:\\drawable_ic_flag_of_new_zealand.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\8.0\\com.example.myquizapp-main-27:\\drawable\\ic_flag_of_new_zealand.png"
+    }
+]
